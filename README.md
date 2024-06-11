@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**BrennoAzvd/BrennoAzvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, eu sou Brenno Azevedo (BrennoAzvd) 👋
 
-Here are some ideas to get you started:
+✨ Sou apaixonado por tecnologia e atualmente tenho focado meus estudos na área de **desenvolvimento de software**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏢 **Atuação Profissional**
+- 🎓 Graduando em Engenharia de Computação na [UFC](https://www.ufc.br/)
+
+### 📊 Estatísticas no GitHub
+
+![BrennoAzvd's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrennoAzvd&show_icons=true&theme=dracula)
+
+### 🚀 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrennoAzvd&layout=compact)
