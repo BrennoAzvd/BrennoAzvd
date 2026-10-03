@@ -15,7 +15,7 @@
 
 - 🎓 Graduando em **Engenharia da Computação** na [UFC](https://www.ufc.br/), em Sobral
 - 🏢 **Presidente Executivo** da [Loading Jr.](https://loadingjr.com.br/), empresa júnior de desenvolvimento de software
-- 💼 Estagiário de Tecnologia, Sistemas e Inovação no RFeitosa Group
+- 💼 Estagiário de Tecnologia, Sistemas e Inovação no [RFeitosa Group](https://www.instagram.com/rfeitosagroup/)
 - 🔭 Back-end com **Java e Spring Boot**, APIs REST e microsserviços, além de .NET e automação de infraestrutura (IaC e DevOps)
 
 ## 🛠️ Tecnologias
